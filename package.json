@@ -1,0 +1,22 @@
+{
+  "name": "subsetsum",
+  "version": "1.0.0",
+  "description": "Find every subset of a list of numbers that sums to a given value",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwingustafson/subsetsum.git"
+  },
+  "author": "Edwin Gustafson",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/edwingustafson/subsetsum/issues"
+  },
+  "homepage": "https://github.com/edwingustafson/subsetsum#readme",
+  "dependencies": {
+    "immutable": "^3.8.2"
+  }
+}
